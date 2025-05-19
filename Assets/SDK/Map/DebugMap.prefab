@@ -1624,7 +1624,6 @@ MonoBehaviour:
   texture: {fileID: 0}
   background: {fileID: 657329252564996459}
   locationsToggleGroup: {fileID: 0}
-  isDefault: 1
 --- !u!223 &3616505839170650349
 Canvas:
   m_ObjectHideFlags: 0
@@ -1669,7 +1668,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 4
-  m_PresetInfoIsWorld: 1
+  m_PresetInfoIsWorld: 0
 --- !u!114 &3616505839170650323
 MonoBehaviour:
   m_ObjectHideFlags: 0

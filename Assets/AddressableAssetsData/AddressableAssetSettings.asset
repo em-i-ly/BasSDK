@@ -30,7 +30,7 @@ MonoBehaviour:
   m_StripUnityVersionFromBundleBuild: 1
   m_DisableVisibleSubAssetRepresentations: 0
   m_ShaderBundleNaming: 2
-  m_ShaderBundleCustomNaming: Proto
+  m_ShaderBundleCustomNaming: CampfireMod
   m_MonoScriptBundleNaming: 0
   m_CheckForContentUpdateRestrictionsOption: 0
   m_MonoScriptBundleCustomNaming: 
@@ -42,16 +42,21 @@ MonoBehaviour:
   m_CustomContentStateBuildPath: 
   m_ContentStateBuildPath: 
   m_BuildAddressablesWithPlayerBuild: 2
-  m_overridePlayerVersion: Proto
+  m_overridePlayerVersion: CampfireMod
   m_GroupAssets:
-  - {fileID: 11400000, guid: fbe88945f5fd22549a3b2283780ee7c2, type: 2}
   - {fileID: 11400000, guid: cfc7bd780798872419ab40cac555580b, type: 2}
-  - {fileID: 11400000, guid: 7b5cd7845295efe449821e24b3a47891, type: 2}
   - {fileID: 11400000, guid: dada93e4e3a09ef4ba4a1759a0d8f911, type: 2}
   - {fileID: 11400000, guid: 8056bd77f330a8348bb12d7cb956bea0, type: 2}
   - {fileID: 11400000, guid: 256939aa0931a9f448e8a6a0765902d7, type: 2}
   - {fileID: 11400000, guid: 9f937fc8a19b3ae429f92c02db43898a, type: 2}
   - {fileID: 11400000, guid: 6c00cdf8a2c6afb419ce6148fbb245c0, type: 2}
+  - {fileID: 11400000, guid: 3f7db7cb5f6060a4ca0830092860b03a, type: 2}
+  - {fileID: 11400000, guid: f53e7b52b8a97dd4da8b118d6b87e72e, type: 2}
+  - {fileID: 11400000, guid: e8e409000f8c55d41945720d0b323c11, type: 2}
+  - {fileID: 11400000, guid: 74aeb9a695dc6184fa11397f4a06aec6, type: 2}
+  - {fileID: 11400000, guid: c99a4ceed8f108643af8db14e2e488ad, type: 2}
+  - {fileID: 11400000, guid: 91b1dc05415c20e4d9afa8f0ad51ed66, type: 2}
+  - {fileID: 11400000, guid: 4831250ee26b9804abcf64f3c3b11fca, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -72,7 +77,7 @@ MonoBehaviour:
       - m_Id: 3868748ffde3b334bbd8b7acf4ed429e
         m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}'
       - m_Id: ebabd56f856c87f47810de635632fa27
-        m_Value: '{ThunderRoad.FileManager.aaModPath}/Proto'
+        m_Value: '{ThunderRoad.FileManager.aaModPath}/CampfireMod'
     m_ProfileEntryNames:
     - m_Id: ce15733c007f6d84a9cd434894e23ab1
       m_Name: DefaultBuildPath

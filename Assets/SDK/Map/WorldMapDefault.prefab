@@ -1364,7 +1364,6 @@ MonoBehaviour:
   texture: {fileID: 0}
   background: {fileID: 657329252564996459}
   locationsToggleGroup: {fileID: 1124465297122930968}
-  isDefault: 1
 --- !u!223 &3616505839170650349
 Canvas:
   m_ObjectHideFlags: 0

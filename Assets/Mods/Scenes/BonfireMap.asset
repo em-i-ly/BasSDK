@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e3c7edbc99395547b62493aeaeb1465, type: 3}
+  m_Name: BonfireMap
+  m_EditorClassIdentifier: 
+  folderName: CampfireMod
+  isDefault: 0
+  addressableAssetGroups:
+  - {fileID: 11400000, guid: 4831250ee26b9804abcf64f3c3b11fca, type: 2}
+  selected: 1
+  exportAfterBuild: 1
+  isMod: 1
+  exportModManifest: 1
+  modName: Campfire
+  modDescription: Make a Campfire
+  modAuthor: Emily
+  modVersion: 1.0
+  modThumbnail: 

@@ -36,7 +36,7 @@ MonoBehaviour:
   fogEndDistance: 2000
   skybox: 2
   skyBoxMaterialProp:
-    _material: {fileID: 2100000, guid: bed09de67ac60ef41b48559cca4640e7, type: 2}
+    _material: {fileID: 0}
     _properties:
     - _type: 2
       _name: _SunDisk

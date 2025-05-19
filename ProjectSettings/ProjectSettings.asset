@@ -139,7 +139,9 @@ PlayerSettings:
     Others: 1
   bundleVersion: 1.0.7
   preloadedAssets:
-  - {fileID: 11400000, guid: 945532677c26ae740bce1dc0b8529965, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 872486af1100f414591bcd7f3b0b6fd5, type: 2}
+  - {fileID: 5360438740697151594, guid: 6684263135e52884aa65014013df11e8, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -829,11 +831,11 @@ PlayerSettings:
   apiCompatibilityLevel: 3
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 783cb678-6783-4f46-b040-dbf7239077db
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: BasSDK
+  organizationId: em-ily
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
   playerDataPath: 
